@@ -1,8 +1,8 @@
 # HIDUnlocker
 
-## Requirements
+## Assumptions
 - Unlocking a Windows computer using an iPhone and/or Apple Watch.
-- You cannot install anything on a Windows workstation.
+- I assume that you are not able to install anything on your computer
 - Automated password entry will be based on emulation of a USB connected keyboard
 - The password must be transmitted securely and cannot be saved on any device which is unattended
 
@@ -74,9 +74,9 @@ CTRL+A D
 
 ---
 
-## Wymagania
+## Założenia
 - Odblokowywanie komputera z Windowsem przy użyciu iPhone\`a i/lub Apple Watcha.
-- Na stacji roboczej z Windowsem nie można niczego instalować.
+- Zakładam, że nie możesz doinstalowywać niczego na swojej stacji roboczej
 - Zautomatyzowane wprowadzanie hasła będzie się opierać poprzez emulację klawiatury podłączonej do portu USB
 - Hasło musi być przekazywane w sposób bezpieczny i nie może być zapisywane w żadnym urządzeniu, które pozostaje bez nadzoru
 
